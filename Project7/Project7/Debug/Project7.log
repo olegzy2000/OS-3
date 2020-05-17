@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Source1.cpp
+c:\users\olegz\source\repos\project7\project7\source1.cpp(3): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\olegz\source\repos\project7\project7\source1.cpp(4): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Project7.vcxproj -> C:\Users\olegz\source\repos\Project7\Debug\Project7.exe
